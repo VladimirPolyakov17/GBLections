@@ -33,7 +33,7 @@ while (count < 10000)
   }
   if(what == 1)
   {
-    x=(x+xb)/2;
+    x=(x+ xb)/2;
     y=(y+ yc)/2;
   } 
   Console.SetCursorPosition(x,y);
